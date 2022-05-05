@@ -1,6 +1,6 @@
 const Employee = require("../lib/Employee");
 
-// ! ASK TA
+//
 // jest.mock("../lib/Employee");
 console.log(new Employee());
 test("Creates a new Employee Object", () => {
