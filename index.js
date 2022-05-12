@@ -29,6 +29,7 @@ const newOne = new teamProfileGenerator();
 //       return;
 //     }
 //   });
+// newOne.managerQuestions();
 newOne.managerQuestions();
 
 // let initialAnswers = answers;
