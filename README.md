@@ -17,6 +17,8 @@ This Node application allows users to generate an HTML TEAM page that is customi
 
 Allows quick team profile generation with Tailwind CSS styling and customized user inputs
 
+Go to Link to Watch how the application works: https://drive.google.com/file/d/1WUgQkMj6NyrR6QI1JgeJBJYo0WJhH5mk/view?usp=sharing
+
 ## Installation
 
 Npm i, npm i inquirer, node index.js
